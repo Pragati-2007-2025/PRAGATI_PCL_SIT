@@ -1,4 +1,4 @@
-// Swarangi Pathak 25070521079
+// Pragati Shelke 25070521108
 #include <stdio.h>
 
 // Enum to track the type of data stored in the union
