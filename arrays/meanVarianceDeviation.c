@@ -1,4 +1,4 @@
-// Swarangi Pathak 25070521079
+// Pragati Shelke 25070521108
 
 #include <math.h>
 #include <stdio.h>
